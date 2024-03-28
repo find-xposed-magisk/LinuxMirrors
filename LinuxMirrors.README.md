@@ -9,7 +9,7 @@
     </strong>
 </p>
 <p align="center">
-    GNU/Linux 一键更换系统软件源脚本
+    GNU/Linux 更换系统软件源脚本
 </p>
 <p align="center">
     <strong>
@@ -20,7 +20,7 @@
 <table align="center">
     <tr>
         <td><a href="https://www.debian.org" target="_blank"><img src="./docs/assets/images/icon/debian.svg" width="16" height="16" style="vertical-align: -0.45em"></a>&nbsp;Debian</td>
-        <td align="center">8.0 ~ 12</td>
+        <td align="center">8.0 ~ 13</td>
     </tr>
     <tr>
         <td><a href="https://cn.ubuntu.com" target="_blank"><img src="./docs/assets/images/icon/ubuntu.svg" width="16" height="16" style="vertical-align: -0.15em"></a>&nbsp;Ubuntu</td>
@@ -35,15 +35,23 @@
         <td align="center">all</td>
     </tr>
     <tr>
-        <td><a href="https://access.redhat.com/products/red-hat-enterprise-linux" target="_blank"><img src="./docs/assets/images/icon/redhat.svg" width="16" height="16" style="vertical-align: -0.15em"></a>&nbsp;Red Hat Enterprise Linux</td>
+        <td><a href="https://www.armbian.org" target="_blank"><img src="./docs/assets/images/icon/armbian.png" width="16" height="16" style="vertical-align: -0.2em"></a>&nbsp;Armbian</td>
+        <td align="center">all</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.proxmox.com" target="_blank"><img src="./docs/assets/images/icon/proxmox.svg" width="16" height="16" style="vertical-align: -0.2em"></a>&nbsp;Proxmox</td>
+        <td align="center">all</td>
+    </tr>
+    <tr>
+        <td><a href="https://access.redhat.com/products/red-hat-enterprise-linux" target="_blank"><img src="./docs/assets/images/icon/redhat.svg" width="16" height="16" style="vertical-align: -0.1em"></a>&nbsp;Red Hat Enterprise Linux</td>
         <td align="center">7.0 ~ 9</td>
     </tr>
     <tr>
-        <td><a href="https://fedoraproject.org/zh-Hans" target="_blank"><img src="./docs/assets/images/icon/fedora.ico" width="16" height="16" style="vertical-align: -0.15em"></a>&nbsp;Fedora</td>
+        <td><a href="https://fedoraproject.org/zh-Hans" target="_blank"><img src="./docs/assets/images/icon/fedora.ico" width="16" height="16" style="vertical-align: -0.2em"></a>&nbsp;Fedora</td>
         <td align="center">30 ~ 39</td>
     </tr>
     <tr>
-        <td><a href="https://www.centos.org" target="_blank"><img src="./docs/assets/images/icon/centos.svg" width="16" height="16" style="vertical-align: -0.15em"></a>&nbsp;CentOS</td>
+        <td><a href="https://www.centos.org" target="_blank"><img src="./docs/assets/images/icon/centos.svg" width="16" height="16" style="vertical-align: -0.2em"></a>&nbsp;CentOS</td>
         <td align="center">7.0 ~ 8.5 / Stream 8 ~ 9</td>
     </tr>
     <tr>
@@ -59,7 +67,7 @@
         <td align="center">8.6 / 8.8 / 9.0</td>
     </tr>
     <tr>
-        <td><a href="https://www.openeuler.org/zh" target="_blank"><img src="./docs/assets/images/icon/openeuler.ico" width="16" height="16" style="vertical-align: -0.15em"></a>&nbsp;openEuler</td>
+        <td><a href="https://www.openeuler.org/zh" target="_blank"><img src="./docs/assets/images/icon/openeuler.ico" width="16" height="16" style="vertical-align: -0.2em"></a>&nbsp;openEuler</td>
         <td align="center">21.03 ~ 23</td>
     </tr>
     <tr>
@@ -69,6 +77,10 @@
     <tr>
         <td><a href="https://archlinux.org" target="_blank"><img src="./docs/assets/images/icon/arch-linux.ico" width="16" height="16" style="vertical-align: -0.15em"></a>&nbsp;Arch Linux</td>
         <td align="center">all</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.alpinelinux.org" target="_blank"><img src="./docs/assets/images/icon/alpine.png" width="16" height="16" style="vertical-align: -0.15em"/></a>&nbsp;Alpine Linux</td>
+        <td align="center">v3 / edge</td>
     </tr>
 </table>
 
@@ -84,6 +96,6 @@
 
 ### LICENSE
 
-Copyright © 2023, [SuperManito](https://github.com/SuperManito). Released under the [MIT](https://github.com/SuperManito/LinuxMirrors/blob/main/LICENSE).
+Copyright © 2024, [SuperManito](https://github.com/SuperManito). Released under the [MIT](https://github.com/SuperManito/LinuxMirrors/blob/main/LICENSE).
 
 __如果您觉得这个项目不错对您有所帮助的话，方便在右上角给颗 ⭐ 并分享给更多的朋友吗？__
